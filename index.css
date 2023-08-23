@@ -1,6 +1,4 @@
-h1 {
-  font-family: sans-serif;
-}
-p {
-  font: Helvetica;
-}
+@fontface {
+  font-family: "The Last of Us Rough";
+  src: url("The Last of Us Rough.woff2");
+
